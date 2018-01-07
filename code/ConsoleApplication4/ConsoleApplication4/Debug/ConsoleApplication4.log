@@ -1,9 +1,5 @@
 ﻿  ex05-05.c
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex05-05.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex05-05.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex05-05.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex05-05.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.exe
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)

@@ -35,7 +35,7 @@ int main(void)
 	printf("Your birthday is %d. %d. %d.\n", year, month, date); */
 
 	printf("숫자를 차례대로 입력하세요(예 1.2 34.5) : \n");
-	scanf("%f %f %f %f %f %f", &a1, &a2, &a3, &a4, &a5);
+	scanf("%f %f %f %f %f", &a1, &a2, &a3, &a4, &a5);
 	printf("input : %.1f %.3f %.5f %.1f %.4f\n", a1, a2, a3, a4, a5);
 	printf("%.3f\n", a1);
 	printf("%.3f\n", a2);
