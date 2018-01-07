@@ -1,0 +1,3 @@
+﻿  ex05-01.c
+ex05-01.obj : error LNK2005: _main이(가) ex04_01.obj에 이미 정의되어 있습니다.
+D:\C언어 방학특강(주말반)\Work\ConsoleApplication3\Debug\ConsoleApplication3.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
