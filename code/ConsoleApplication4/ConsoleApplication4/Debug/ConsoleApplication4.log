@@ -1,8 +1,5 @@
-﻿  ex07-22.c
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex07-22.c(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex07-22.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex07-22.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+﻿  ex08-01.c
+d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex08-01.c(15): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex08-01.c(15): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.exe
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)

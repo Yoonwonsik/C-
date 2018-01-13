@@ -12,12 +12,7 @@ void main(void)
 	printf("단어를 입력하세요 : ");
 	scanf("%s", s);
 
-	printf("i를 입력하세요 : ");
-	scanf("%d", &i);
-
-
-	
-	for (i = 0; i < strlen(s); ++i)
+	for (i = 0; i < strlen(s); i++)
 	{
 		char str = s[i];
 

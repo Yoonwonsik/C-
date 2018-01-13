@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Debug\ex07-22.c" />
+    <ClCompile Include="Debug\ex08-01.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1A1F5BA6-CF52-4148-855E-9491566AF642}</ProjectGuid>
