@@ -1,5 +1,3 @@
-﻿  ex08-01.c
-d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex08-01.c(15): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-  d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\debug\ex08-01.c(15): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+﻿  ex09-07.c
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.exe
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)
