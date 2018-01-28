@@ -1,3 +1,6 @@
-﻿  ex10-09.c
+﻿  ex14-02.c
+d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\ex14-02.c(17): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+d:\c언어 방학특강(주말반)\work\consoleapplication4\consoleapplication4\ex14-02.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.exe
   ConsoleApplication4.vcxproj -> D:\C언어 방학특강(주말반)\Work\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)
